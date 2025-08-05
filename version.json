@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "download_url": "https://gitee.com/vrxiaojie/usbhub_-ota/raw/master/firmware.bin",
+  "download_url": "https://raw.githubusercontent.com/vrxiaojie/USBHub-OTA/refs/heads/main/firmware.bin",
   "release_notes": "修复了一些bug并添加了新功能",
   "release_date": "2024-08-05",
   "mandatory": false
